@@ -1,0 +1,17 @@
+.aboutus_header{
+    width: 100%;
+    height: 200px;
+    background-color: rgba(18, 197, 195, 1);
+    display: flex;
+    align-items: center;
+    
+    
+}
+
+.aboutus-title{
+    font-size: 2em;
+    color: white;
+    font-weight: 900;
+    margin-left: 7em;
+    
+}

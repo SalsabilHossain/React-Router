@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:wght@300&display=swap");
+
+.title {
+  color: black;
+  float: left;
+  font-size: 4em;
+  font-weight: 900;
+}
+
+.title_br {
+  color: #0cb8b6;
+  font-weight: 900;
+}
+
+.carousel-caption {
+  top: 10%;
+  text-align: unset;
+  width: 30%;
+}
+
+.content {
+  display: block;
+  float: left;
+  color: black;
+}
